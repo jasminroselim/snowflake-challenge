@@ -1,4 +1,4 @@
-# 2026 EY AI & Data Challenge — Team Playbook
+# 2026 EY AI & Data Challenge
 
 This repository supports the **EY 2026 Optimizing Clean Water Supply Challenge**.
 
