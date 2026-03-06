@@ -1,0 +1,4 @@
+Target,Skewed,Transform,Rationale
+Total Alkalinity,No,none,Skew not high or log1p not beneficial
+Electrical Conductance,No,none,Skew not high or log1p not beneficial
+Dissolved Reactive Phosphorus,Yes,log1p,Right-skew reduced by log1p
